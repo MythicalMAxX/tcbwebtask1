@@ -9,6 +9,6 @@ const col = () => {
    return color;
 };
 
-function init() { 
+function event() { 
         document.getElementById("test1").style.color = col();
     }
